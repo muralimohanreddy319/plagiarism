@@ -54,7 +54,7 @@ for fname1 in b:#open the files in directory
 				del dic2['']
 			s=0
 
-	#To claculate dot product of the values of common words in both files.
+	#To calculate dot product of the values of common words in both files.
 			for x in dic1.keys():
 
 				for y in dic2.keys():
